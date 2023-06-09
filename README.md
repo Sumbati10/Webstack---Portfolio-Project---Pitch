@@ -9,7 +9,12 @@ Therefore, having thie e commerce website is a brilliant way pof marketing the N
 ![Capture lindah](https://github.com/Sumbati10/Webstack---Portfolio-Project---Pitch/assets/105505214/7630c485-5f57-4f11-bd23-6fbf7f3c85fa)
 
 
+
+
+
+
 Technologies used
+
 HTML
 CSS
 JavaScript
