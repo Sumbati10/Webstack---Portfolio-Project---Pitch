@@ -15,6 +15,10 @@ Therefore, having thie e commerce website is a brilliant way pof marketing the N
 
 Technologies used
 
-HTML
-CSS
-JavaScript
+# **Technologies used**
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Bootstrap**
+
